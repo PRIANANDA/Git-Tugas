@@ -1,0 +1,14 @@
+Test 1 Tugas Pertemuan 1
+Test 1 Update in Pertemuan 1
+text conflict di master
+test merging di development
+conflict
+perubahan pada text 3
+test staged
+test working directory
+merge conflict
+check tanda ------
+testing commit
+testing staged
+testing commit
+test change 
